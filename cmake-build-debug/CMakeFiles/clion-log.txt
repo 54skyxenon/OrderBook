@@ -1,9 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/brandon/Desktop/OrderBookDemo
-CMake Warning at test/lib/googletest/CMakeLists.txt:54 (project):
-  VERSION keyword not followed by a value or was followed by a value that
-  expanded to nothing.
-
-
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/brandon/Desktop/OrderBookDemo/cmake-build-debug

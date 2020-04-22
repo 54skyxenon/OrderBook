@@ -1,6 +1,6 @@
 project(src)
 
-add_definitions(-std=c++11)
+add_definitions(-std=c++17)
 
 set(HEADER_FILES OrderBook.h)
 set(SOURCE_FILES OrderBook.cpp)
